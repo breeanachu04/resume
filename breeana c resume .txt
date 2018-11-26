@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<body>
+
+<p> Hi I am Breeana Chu, and 14 years old. I am hardworking, motivated and reflective and fully ready to be hired. 
+I have lots of experience in taking part of volunteer and clubs took part In many curricular and other clubs and activities. </p>
+
+
+<ul>
+<h1> Working Experience </h1> 
+<li> stuff here... </li> 
+<l2> stuff</l2>
+</ul>
+<hr/>
+
+
+
+<h1> School Data </h1>
+<ul>
+<l1> I am taking part in cancer club to help package gifts for kids with cancer and help fund raise money for cancer fighters
+</ul>
+
+</body>
+</html> 
+</ul>
+<hr/>
